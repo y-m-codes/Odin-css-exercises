@@ -1,0 +1,10 @@
+/* stylesheet.css */
+
+div {
+    font-family:Arial, Helvetica, sans-serif
+    colour: white;
+    background-colour: red;
+    font-size: 32px;
+    text-align: center;
+    font-weight: bold;
+}
